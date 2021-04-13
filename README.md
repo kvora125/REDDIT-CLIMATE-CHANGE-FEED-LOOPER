@@ -1,0 +1,2 @@
+# REDDIT-CLIMATE-CHANGE-FEED-LOOPER
+Climate change refers to significant changes in global temperature, precipitation, wind patterns and other measures of climate that occur over several decades or longer. The seas are rising. The foods we eat and take for granted are threatened. Ocean acidification is increasing. In this project, I have created an application which would print facts related to climate change when the user prompts 'y'.
